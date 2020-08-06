@@ -1,0 +1,13 @@
+D:\Curso CSHARP\video_42\video_42\bin\Debug\netcoreapp3.1\video_42.exe
+D:\Curso CSHARP\video_42\video_42\bin\Debug\netcoreapp3.1\video_42.deps.json
+D:\Curso CSHARP\video_42\video_42\bin\Debug\netcoreapp3.1\video_42.runtimeconfig.json
+D:\Curso CSHARP\video_42\video_42\bin\Debug\netcoreapp3.1\video_42.runtimeconfig.dev.json
+D:\Curso CSHARP\video_42\video_42\bin\Debug\netcoreapp3.1\video_42.dll
+D:\Curso CSHARP\video_42\video_42\bin\Debug\netcoreapp3.1\video_42.pdb
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.csprojAssemblyReference.cache
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.AssemblyInfoInputs.cache
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.AssemblyInfo.cs
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.csproj.CoreCompileInputs.cache
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.dll
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.pdb
+D:\Curso CSHARP\video_42\video_42\obj\Debug\netcoreapp3.1\video_42.genruntimeconfig.cache
